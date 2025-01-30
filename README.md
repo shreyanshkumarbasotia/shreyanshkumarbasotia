@@ -47,7 +47,7 @@
 
 ## **📢 Let's Connect!**  
 <a href="https://www.linkedin.com/in/shreyansh-kumar-basotia-720148202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>  
-📩 **Email:** shreyansh@example.com  
+📩 **Email:** 22053630@kiit.ac.in 
 
 📌 **Feel free to reach out for discussions on research, AI projects, or business strategy collaborations!**  
 

@@ -51,10 +51,4 @@
 
 📌 **Feel free to reach out for discussions on research, AI projects, or business strategy collaborations!**  
 
----
-
-### **🚀 Next Steps:**  
-✅ **Upload this ReadMe to your GitHub Profile Repository (`ShreyanshBasotia/ShreyanshBasotia`)**  
-✅ **Push your projects (Dynamic Spectrum Model first)**  
-✅ **Let me know once it's done, and I'll review your GitHub profile for final improvements!** 🚀  
 

@@ -17,15 +17,15 @@
 
 ## **📂 Research & Projects**  
 
-### 🔹 **Early Tumor Detection (Private Repository)**  
-🔐 **Due to the confidential nature of this research, the repository is private.**  
+### 🔹 **Early Tumor Detection**  
+ 
 📌 **Focuses on computational methodologies and early detection approaches.**  
 📌 **Research involves structured analysis and innovative modeling techniques.**  
 
-### 🔹 **ADAS – Vehicle Communication System (Private Repository)**  
-🔐 **This project is private due to research and development confidentiality.**  
-📌 **Explores real-time vehicle communication models for enhanced road safety.**  
-📌 **Focuses on edge computing and predictive safety mechanisms.**  
+### 🔹 **Impact of AI on cybersecurity**  
+
+📌 **A detailed presentation exploring cybersecurity threats.**  
+📌 **Taylor Swift AI-generated audio vs original song comparison**  
 
 ### 🔹 **Web Development Projects (Frontend & UI Work)**  
 📌 **Description:** HTML, CSS, and JavaScript-based projects showcasing frontend development concepts.  
